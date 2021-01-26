@@ -8,5 +8,5 @@ print('ksdjafhjsdfhlsdkjhsdjklflhsdjfffff')
 print('skjdfhaskdjfhsdakjfhsakdjfhsdakjfhsadkjfh')
 print('yeonu')
 
-print("rebase연습")
-print("squash연습!!!")
+print('commit3')
+
