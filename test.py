@@ -3,10 +3,13 @@ print("안녕하세요!")
 print("hello universe!")
 print("반갑습니다!")
 print("GOOOOOOOD!")
-
 print('ksdjafhjsdfhlsdkjhsdjklflhsdjfffff')
 print('skjdfhaskdjfhsdakjfhsakdjfhsdakjfhsadkjfh')
+print(333)
 print('yeonu')
-
-print('commit3')
-
+print("vim")
+print("rebase연습")
+print("squash연습!")
+print("squash연습!")
+print("squash연습!")
+print("rebase연습!")
