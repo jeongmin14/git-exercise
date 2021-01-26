@@ -17,11 +17,4 @@ print("hi universe!")
 
 print("hello world!")
 print("반갑습니다!")
-print("hello bear")
-print("hello tiger")
-print("hello lion!")
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
+
