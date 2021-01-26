@@ -24,6 +24,8 @@ print("hello world!")
 print("hello")
 print("hello")
 print("반갑습니다!")
+print("반갑습니다!")
+print("GOOOOOOOD!")
 
 print("hi universe!")
 print("hi universe!")
