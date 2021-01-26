@@ -27,8 +27,7 @@ print("반갑습니다!")
 print("반갑습니다!")
 print("GOOOOOOOD!")
 
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
-print("hi universe!")
+print('ksdjafhjsdfhlsdkjhsdjklflhsdjfffff')
+print('skjdfhaskdjfhsdakjfhsakdjfhsdakjfhsadkjfh')
+print('yeonu')
+
